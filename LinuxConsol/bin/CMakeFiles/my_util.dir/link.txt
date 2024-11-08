@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/my_util.dir/main.c.o CMakeFiles/my_util.dir/processes.c.o CMakeFiles/my_util.dir/logprint.c.o CMakeFiles/my_util.dir/help.c.o CMakeFiles/my_util.dir/user.c.o  -o bin/my_util 
